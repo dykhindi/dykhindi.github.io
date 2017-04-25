@@ -1,1 +1,14 @@
-Hello World
+---
+layout: default
+description: DYK(Did you know that) हिंदी वेबसाइट में, हम आपसे अलग अलग चीज़ों के बारे में बताएँगे ताकि आपके ज्ञान में बढोती हो. 
+sitemap: false
+---
+    {% for post in site.posts limit:10 %}
+		  <div class="post-container"> 
+            <div class="post-title"><a style="color:white" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+            <div class="post-thumb"><a href="{{ post.url | prepend: site.baseurl }}"><img height="300" width="300" src="{{post.imgpic}}"/></a></div>
+          <p>{{post.excerpt}}</p>
+          </div>
+    {% endfor %}
+   
+
