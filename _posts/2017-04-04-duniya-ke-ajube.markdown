@@ -2,7 +2,7 @@
 layout: post
 title:  "क्यां आप जानते हे ये दुनिया के ७-प्राचीन अजूबे के बारे में?"
 
-permalink: दुनिया-के-७-प्राचीन-अजूबे/
+permalink: duniya-ke-7-prachin-ajube/
 
 imgpic: https://2.bp.blogspot.com/-9Y8I36EhZe0/WP856VzbjJI/AAAAAAAAAAM/f5xh15gutB8OxYHhy-tplZnBlgZZ-alIACLcB/s320/Colossus-of-Rhod.jpg
 
