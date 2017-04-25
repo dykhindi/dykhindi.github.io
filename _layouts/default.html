@@ -8,6 +8,7 @@
 		<link rel="icon" type="image/png" href="//d1qmdf3vop2l07.cloudfront.net/long-pig.cloudvent.net/compressed/b524655e5cc56bf82f67d0c7308fad1a.png" sizes="192x192" data-cms-original-href="/touch-icon.png" />
 		<link rel="icon" type="image/png" href="//d1qmdf3vop2l07.cloudfront.net/long-pig.cloudvent.net/compressed/e6731fa6ec42ad5014ddcd74dcc0cbdf.png" data-cms-original-href="/images/favicon.png" />
 	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+{% if page.ogpic %}<meta property="og:image" content="{{page.ogpic}}" />{% endif %}
 	{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}{% if page.metatags %} <meta name="robots" content="{{page.metatags}}">{% endif %}
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
