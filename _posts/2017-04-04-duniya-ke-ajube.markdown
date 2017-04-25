@@ -16,6 +16,8 @@ description: ताजमहल, चीन की दीवाल, ये सब
 
 ताजमहल, चीन की दीवाल, ये सब अजूबे,  नए अजूबे हे , लेकिन उसके पहले भी हमारे पास ७ अजूबे थे, जिसे हम, ७ प्राचीन अजूबे, के नाम से जानते हे। ये सात अजूबे प्राकृतिक और मानव सर्जित हे, जो हर लोग को आचार्यचकित कर देते हे. तो चलिए कुस जानते हे इस के बारे में। 
 
+{% include ads.html %}
+
 ## १. गीजा का पिरामिड ## 
 
 <img src="https://2.bp.blogspot.com/-FzHrTU0YK_E/WP857MksGmI/AAAAAAAAAAY/s8nXPPzPOt4hRwBgNhos7OHNYTQyhWheQCLcB/s1600/Great%2BPyramid%2Bof%2BGiza.jpg"><br/>
@@ -44,6 +46,8 @@ description: ताजमहल, चीन की दीवाल, ये सब
 
 अर्टेमिस जो यूनानी धर्म की प्राचीन देवियो में से एक हे।  वो कुमारित्व, शिकार, जंगली जानवर और चाँद की देवी थीं. रोमन धर्म में उनको डायना भी कहा जाता था।  यह मंदिर आज तुर्की में स्थापित हे।  
 
+{% include ads.html %}
+
 ## ५. माउसोलस का मकबरा। ##
 
 <img src="https://2.bp.blogspot.com/-BLiO9Hhhs9k/WP857FT3ENI/AAAAAAAAAAg/GnsznwjyvVgm5q5y4e6iVKEy_5uN6D0bwCLcB/s1600/Mausoleum_at_Halicarnassus_by_Ferdinand_Knab.png"/><br/>
@@ -61,5 +65,7 @@ description: ताजमहल, चीन की दीवाल, ये सब
 <img src="https://2.bp.blogspot.com/-C1C5LArKnAc/WP857jH066I/AAAAAAAAAAk/tfryk1qAW08WtQ_LUoebS84xnODDvA94QCLcB/s1600/Pharos_Alexandria.jpg"/><br/>
 
 सिकन्दरिया का रोशनीघर का निर्माण ईसा से ३ शताब्दी पूर्व मिस्र के द्विप फ़ेरोस पर एक प्रतीक चिह्न के रूप मे करवाया गया था, जिसकी उंचाई १२० के आसपास हे। उस समय का वो सबसे बड़ी मानव सर्जित सरंचना थी। लेकिन भूकंप के कारन वो भी नष्ट हो गया। 
+
+{% include ads.html %}
 
 तो ये थे दुनिया के ७ प्राचीन अजूबे , जिसके बारे में बहुत कम लोगो को ही पता हे, तो ये शेयर करके अपने फ्रेंड्स को भी जरूर बताये।  
