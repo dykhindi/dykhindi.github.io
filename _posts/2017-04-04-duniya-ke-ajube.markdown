@@ -16,8 +16,6 @@ description: ताजमहल, चीन की दीवाल, ये सब
 
 ताजमहल, चीन की दीवाल, ये सब अजूबे,  नए अजूबे हे , लेकिन उसके पहले भी हमारे पास ७ अजूबे थे, जिसे हम, ७ प्राचीन अजूबे, के नाम से जानते हे। ये सात अजूबे प्राकृतिक और मानव सर्जित हे, जो हर लोग को आचार्यचकित कर देते हे. तो चलिए कुस जानते हे इस के बारे में। 
 
-{% include ads.html %}
-
 ## १. गीजा का पिरामिड ## 
 
 <img src="https://2.bp.blogspot.com/-FzHrTU0YK_E/WP857MksGmI/AAAAAAAAAAY/s8nXPPzPOt4hRwBgNhos7OHNYTQyhWheQCLcB/s1600/Great%2BPyramid%2Bof%2BGiza.jpg"><br/>
