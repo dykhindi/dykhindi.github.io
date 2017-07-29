@@ -6,7 +6,7 @@ sitemap: false
     {% for post in site.posts limit:10 %}
 		  <div class="post-container"> 
             <div class="post-title"><a style="color:white" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
-            <div class="post-thumb"><a href="{{ post.url | prepend: site.baseurl }}"><img height="300" width="300" src="{{post.imgpic}}"/></a></div>
+            <div class="post-thumb"><a href="{{ post.url | prepend: site.baseurl }}"><img height="300" width="300" src="{{post.ogpic}}"/></a></div>
           <p>{{post.description}}</p>
           </div>
     {% endfor %}

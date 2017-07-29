@@ -9,9 +9,6 @@
 		<link rel="icon" type="image/png" href="//d1qmdf3vop2l07.cloudfront.net/long-pig.cloudvent.net/compressed/e6731fa6ec42ad5014ddcd74dcc0cbdf.png" data-cms-original-href="/images/favicon.png" />
 	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 {% if page.ogpic %}<meta property="og:image" content="{{page.ogpic}}" />{% endif %}
-{% if page.nextlink %}<link rel="prerender" href="{{page.nextlink | replace:'index.html','' | prepend: site.baseurl | prepend: site.url}}" />{% endif %}
-{% if page.nextlink %}<link rel="next" href="{{page.nextlink | replace:'index.html','' | prepend: site.baseurl | prepend: site.url}}">{% endif %}
-{% if page.prevlink %}<link rel="prev" href="{{page.prevlink | replace:'index.html','' | prepend: site.baseurl | prepend: site.url}}">{% endif %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}{% if page.metatags %} <meta name="robots" content="{{page.metatags}}">{% endif %}
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
